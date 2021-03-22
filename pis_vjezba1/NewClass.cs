@@ -6,5 +6,6 @@ namespace pis_vjezba1
 {
     class NewClass
     {
+        public void Method() {}
     }
 }
